@@ -1,0 +1,21 @@
+package arraymodtootherarray;
+
+public class Arraymodtootherarray {
+
+	public static void main(String[]args) {
+		
+		int [] arrayuno={1,2,3,4,5,6,7,8,9,10};
+		int [] arraydos=new int[100];
+		int t=0;
+		
+		for(int i=0;i<arrayuno.length;i=i+1) {
+			
+			if(arrayuno[i]>5) {
+			
+					arraydos[t]=arrayuno[i];
+				}
+			System.out.println("El nuevo array es: "+arraydos[t]);
+		}
+		
+	}
+}

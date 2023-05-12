@@ -1,0 +1,7 @@
+Sergi Garcia La mitja es=5.75
+
+Santi López La mitja es=6.5
+
+Carme Perez La mitja es=7.107142857142857
+
+fi 

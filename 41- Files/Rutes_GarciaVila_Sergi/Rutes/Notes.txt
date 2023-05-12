@@ -1,0 +1,4 @@
+Sergi Garcia 4 3,5 6 4 8 9 -1
+Santi López 4,5 8,5 -1 
+Carme Perez 6,5 8,75 10 9,5 4 5 6 -1
+fi
